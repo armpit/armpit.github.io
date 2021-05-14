@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a drunken old monkey.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sometimes I give myself an uppercut just to remind myself that I am alive.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Slacking on a rock somewhere. I defeated the heavenly host, I have no need for earthly activities.
